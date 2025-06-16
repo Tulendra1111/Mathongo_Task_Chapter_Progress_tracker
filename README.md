@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/dc74c80e-4913-473d-85be-786dacafe176
+**URL**: https://mathongotaskchapterprogresstracker.vercel.app
 
 ## How can I edit this code?
 
